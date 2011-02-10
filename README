@@ -1,0 +1,35 @@
+This is Perl module XS::SvCallTest.
+
+INSTALLATION
+
+Install cpanm (App::cpanminus) and then run the following command to install
+XS::SvCallTest:
+
+    $ cpanm XS::SvCallTest
+
+If you get an archive of this distribution, unpack it and build it
+as per the usual:
+
+    $ tar xzf XS-SvCallTest-$version.tar.gz
+    $ cd XS-SvCallTest-$version
+    $ perl Makefile.PL
+    $ make && make test
+
+Then install it:
+
+    $ make install
+
+DOCUMENTATION
+
+XS::SvCallTest documentation is available as in POD. So you can do:
+
+    $ perldoc XS::SvCallTest
+
+to read the documentation online with your favorite pager.
+
+LICENSE AND COPYRIGHT
+
+Copyright (c) 2011, Fuji, Goro (gfx). All rights reserved.
+
+This library is free software; you can redistribute it and/or modify
+it under the same terms as Perl itself.
